@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "852507378c48e004",
+    "type": "split",
+    "children": [
+      {
+        "id": "63bb796a200bf1b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a76d1966e4e004e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Алгебра и геометрия, линейная алгебра.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Алгебра и геометрия, линейная алгебра"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cc98463de61c9910",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6cfe0a41f60ae63",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73ae9cd2602bef2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "685c97a88f07433b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16e5a430a46aa878",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3e7db811ad648f9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "55e170c1880dbfbf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2953fa0b223d108c",
+    "type": "split",
+    "children": [
+      {
+        "id": "60a8e33e1b1bfd9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9258fa8a945a69b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Алгебра и геометрия, линейная алгебра.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Алгебра и геометрия, линейная алгебра"
+            }
+          },
+          {
+            "id": "764b1f712aa4d2a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Алгебра и геометрия, линейная алгебра.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Алгебра и геометрия, линейная алгебра"
+            }
+          },
+          {
+            "id": "96a1a00c7e23b4f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c8b9c62f612397df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Алгебра и геометрия, линейная алгебра.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Алгебра и геометрия, линейная алгебра"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a76d1966e4e004e6",
+  "lastOpenFiles": [
+    "Алгебра и геометрия, линейная алгебра.md"
+  ]
+}
